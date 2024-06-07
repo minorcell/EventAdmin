@@ -1,0 +1,8 @@
+*node_modules
+*.vscode
+*package-lock.json
+*uploads
+
+# Ignore all local history files
+.hg
+.DS_Store
